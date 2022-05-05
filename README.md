@@ -10,4 +10,5 @@
   <img align="center" alt="Javascript" height="50" src="https://image.flaticon.com/icons/png/512/919/919828.png">
   <img align="center" alt="PHP" height="50" src="https://image.flaticon.com/icons/png/512/919/919830.png">
   <img align="center" alt="NodeJS" height="50" src="https://image.flaticon.com/icons/png/512/919/919825.png">
+  <img align="center" alt="Python" height="50" src="https://image.flaticon.com/512/1822/1822899.png">
 </div>
